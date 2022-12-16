@@ -5,7 +5,7 @@ My name is **Ido Hirsh**, and this is the place where I build and break things �
 - 🌱 I’m currently learning **DevOps, Python, C**
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **itsidohirsh@gmail.com**
-- 🌎 My website: **[itsidohirsh.github.io](https://itsidohirsh.github.io)**
+- 🌎 My website: **[idohirsh.com](https://idohirsh.com)**
 - ⚡ Fun fact: **I'm awesome** 😎
 
 #### 🔗 Connect with me
